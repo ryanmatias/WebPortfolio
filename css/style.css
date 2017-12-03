@@ -1,0 +1,70 @@
+
+.img-block{
+	width: 100%;
+}
+#banner, #banner img{
+	max-height: 560px;
+	width: 100%;
+	background-image: url('images/mii.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 100px 0 100px 0;
+	margin-bottom: 10px;
+}
+#main-header {
+    background-color: Black;
+    position: fixed;
+    width: 100%;
+    z-index: 9;
+}
+.nav a{
+	color: White;
+}
+.nav a:hover{12:56 AM 12/4/2017
+	color: Maroon;
+	background: transparent !important;
+
+}
+#main-header .nav{
+	margin-top: 16px;
+	float: right;
+	
+}
+#section3{
+	background-color: Black;
+}
+.page-section{
+	padding: 60px 0;
+}
+.input-group label{
+	max-width: 140px;
+	width: 100%;
+	vertical-align: top;
+}
+#contact-form{
+	max-width: 500px;
+	margin: 50px auto 0;
+}
+.input-group{
+	width:100%;
+	margin-bottom: 50px;
+
+}
+.input-group input,
+.input-group textarea{	
+	width:80%;
+	border: 0;
+	border-bottom: 1px solid #a0a0a0;
+	background-color: Gray;
+}
+.input-group input,
+.input-group textarea{
+	outline: none;
+} 
+body { 
+Width:100%;
+Height:100%;
+background-image: url("ezio.jpg");
+}
+
+
